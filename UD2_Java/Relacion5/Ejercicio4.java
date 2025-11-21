@@ -1,4 +1,4 @@
-package UD2_Java;
+package UD2_Java.Relacion5;
 
 public class Ejercicio4 {
     public static void main(String[] args) {
